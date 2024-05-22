@@ -1,0 +1,11 @@
+.header-title {
+  font-size: 24px;
+  line-height: 12px;
+  font-weight: bold;
+  margin-right: auto;
+  margin-left: auto;
+}
+.header-content {
+  display: flex;
+  justify-content: center;
+}
